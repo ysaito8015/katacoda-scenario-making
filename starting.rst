@@ -33,7 +33,6 @@
 ==============================
 
 * `Jupyter notebook  <https://www.katacoda.com/lucasjellema/scenarios/jupyter-notebook>`_  `GitHub <https://github.com/lucasjellema/katacoda-scenarios/tree/master/jupyter-notebook>`_
-* `Docker <>`_  `GitHub <https://github.com/BenHall/katacoda-scenarios/tree/master/1>`_
 
 使える環境 (Docker, k8s など)
 =============================
@@ -55,6 +54,7 @@ index.json に何を書けばいいのか
 * `Markdown のサンプル GitHub <https://github.com/katacoda/scenario-examples/blob/master/markdown-extensions/step1.md>`_
 * `Dashboard へのタブ表示 <https://katacoda.com/scenario-examples/scenarios/dashboard-tabs>`_ `GitHub  <https://github.com/katacoda/scenario-examples/tree/master/dashboard-tabs>`_
 * `Dashboard へのタブ表示 iframe <https://katacoda.com/scenario-examples/scenarios/dashboard-tabs-iframe>`_ `GitHub  <https://github.com/katacoda/scenario-examples/tree/master/dashboard-tabs-iframe>`_
+* `Editor へのコードコピー <https://www.katacoda.com/courses/docker/create-nginx-static-web-server>`_ `GitHub <https://github.com/katacoda/scenario-examples/blob/33d11b27bc33598b4b51129bf3c67a0aa450a4aa/uilayouts/uilayout-editor-terminal/step1.md>`_
 
 環境へのファイルアップロード
 ============================
